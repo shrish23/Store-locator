@@ -220,13 +220,13 @@ function createMarker(latlng, name, address, phone, openstatus, index) {
   var marker = new google.maps.Marker({
     map: map,
     position: latlng,
-    draggable:true,
+    draggable:false,
     //label: index.toString(),
     animation:google.maps.Animation.DROP,
     shape:shape,
     icon:'Coffee_5.svg'
   });
-  
+
   google.maps.event.addListener(marker, 'click', function() {
     infoWindow.setContent(html);
     infoWindow.open(map, marker);

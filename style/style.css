@@ -62,7 +62,7 @@ body {
 }
 
 .stores-list-container{
-    width: 400px;
+    width: 330px;
     position: absolute;
     z-index: 100;
     background-color: white;
