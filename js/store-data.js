@@ -5293,4 +5293,118 @@ let stores = [{
         "name": "tbd - Uber Eats"
     }],
     "slug": "hollywood-vine-6290-west-hollywood-blvd-hollywood-ca-900285309-us"
+},{
+    "recommendation": {},
+    "storeNumber": "16980-167664",
+    "id": "90032",
+    "name": "Nehru Place",
+    "phoneNumber": "NONE",
+    "coordinates": {
+        "latitude": 28.597100,
+        "longitude": 77.131130
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "Metro Station, Ground, Lower, Nehru Place",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "New Delhi",
+        "countrySubdivisionCode": "Delhi",
+        "countryCode": "IN",
+        "postalCode": "110064"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -420,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "open": true,
+    "openStatusText": "Open until 12:30 AM",
+    "addressLines": ["Metro Station, Ground, Lower, Nehru Place", "New Delhi, Delhi 110064"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "8:30 AM to 12:30 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "8:30 AM to 12:30 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Monday",
+        "hours": "8:30 AM to 12:30 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tuesday",
+        "hours": "8:30 AM to 12:30 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "8:30 AM to 12:30 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "8:30 AM to 12:30 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "8:30 AM to 12:30 AM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Digital Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "Metro Station-Ground-Lower-Nehru Place-New Delhi-Delhi-110064-IN"
 }]

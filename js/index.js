@@ -141,7 +141,8 @@ function searchStores(){
   
     for(var store of stores){
       var postal = store['address']['postalCode'].substring(0,5);
-      if(postal == zipCode){
+      var spostal = store['address']['postalCode'].substring(0,6);
+      if((postal == zipCode)||(spostal == zipCode)){
         foundStores.push(store);
       }
     }
