@@ -5315,8 +5315,8 @@ let stores = [{
     },
     "timeZoneInfo": {
         "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:30 "
     },
     "brandName": "Starbucks",
     "ownershipTypeCode": "CO",
@@ -5429,8 +5429,8 @@ let stores = [{
     },
     "timeZoneInfo": {
         "currentTimeOffset": -420,
-        "windowsTimeZoneId": "Pacific Standard Time",
-        "olsonTimeZoneId": "GMT-08:00 America/Los_Angeles"
+        "windowsTimeZoneId": "India Standard Time",
+        "olsonTimeZoneId": "GMT+05:30 "
     },
     "brandName": "Starbucks",
     "ownershipTypeCode": "CO",
