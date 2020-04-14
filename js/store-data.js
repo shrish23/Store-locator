@@ -5300,8 +5300,8 @@ let stores = [{
     "name": "Nehru Place",
     "phoneNumber": "+91 11-65020764",
     "coordinates": {
-        "latitude": 28.597100,
-        "longitude": 77.131130
+        "latitude": 28.551367,
+        "longitude": 77.251978
     },
     "regulations": [],
     "address": {
@@ -5414,8 +5414,8 @@ let stores = [{
     "name": "Select City Walk",
     "phoneNumber": "022 6529 6888",
     "coordinates": {
-        "latitude": 28.692964057201984,
-        "longitude": 77.15212762355804
+        "latitude": 28.528508,
+        "longitude": 77.219007
     },
     "regulations": [],
     "address": {
